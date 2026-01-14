@@ -1,0 +1,88 @@
+@font-face
+{
+  font-family: "Mononoki";
+  src:url(Mononoki.ttf);
+}
+
+body 
+{
+  font-family: "Mononoki";
+  background-color: #24273a;
+  color: #ed8796;
+}
+
+a 
+{
+  text-decoration: none;
+  color: #f5a97f;
+}
+
+a:hover
+{
+  color: #ed8796;
+  background-color: yellow;
+  text-decoration: none;
+}
+
+
+a:visited
+{
+  color: #c6a0f6;
+}
+
+
+h1
+{
+  color: #ed8796;
+  font-size: 300%;
+}
+
+
+h2
+{
+  color: #f5a97f;
+}
+
+
+p 
+{
+  color: #f4dbd6;
+  font-size: 120%;
+}
+
+
+.Name
+{
+  h2
+  {
+      padding-left: 60px;
+  }
+  p
+  {
+    padding-left: 120px;
+  }
+}
+
+
+.PandC
+{
+  h2
+  {
+    padding-left: 60px;
+  }
+  
+  p
+  {
+    padding-left: 120px;
+  }
+}
+
+
+.Links
+{
+  h2
+  {
+    padding-left: 60px;
+    display: inline;
+  }
+}
