@@ -87,3 +87,10 @@ p
   }
 }
 
+.ImageAlign
+{
+    img
+    {
+	padding-left: 180px;
+    }
+}
